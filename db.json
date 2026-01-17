@@ -117,6 +117,17 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
+    },
+    {
+      "id": "1768683003906",
+      "title": "my personal blog",
+      "category": [
+        "development"
+      ],
+      "description": "this is a test description",
+      "date": "2026-01-17T00:00:00.000Z",
+      "coverImage": "https://picsum.photos/id/237/200/300",
+      "content": "this a a long description. \"Welcome to [Blog Name], your daily dose of inspiration for modern living. Explore curated content on wellness, travel, home decor, and personal growth to help you live your best life, one post at a time.\"\n\"Dive deep into the fast-paced world of technology with [Blog Name]. We provide in-depth reviews, AI trends, coding tutorials, and insights into the future of digital innovation for developers and tech enthusiasts.\""
     }
   ]
 }
